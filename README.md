@@ -1,6 +1,5 @@
 # ProjectX
 
-Challenge
 Your challenge for this milestone is to create a meme generation app using UIImagePickerController, UIAlertController, and Core Graphics. If you aren’t familiar with them, memes are a simple format that shows a picture with one line of text overlaid at the top and another overlaid at the bottom.
 
 Your app should:
